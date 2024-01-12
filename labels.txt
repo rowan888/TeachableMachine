@@ -1,2 +1,2 @@
-0 Speaker
-1 GripTrainer
+0 GripTrainer
+1 Speaker
